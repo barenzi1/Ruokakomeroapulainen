@@ -1,4 +1,4 @@
-# Smart Pantry Buddy (Minimalist Edition)
+# Ruokakomeroapulainen v1.0
 Tämä on simppeli Python-sovellus ruokahävikin vähentämiseen.
 
 ## Asennus ja käyttö
